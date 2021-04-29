@@ -39,12 +39,23 @@
     <a title="Download .fig Web" href="https://www.figma.com/file/8YUFtslOXp3Lu9BFLugaBQ/Podcastr-(Copy)?node-id=160%3A2908">
         <img alt="Direct Download" src="https://img.shields.io/badge/Download Web-black?style=flat-square&logo=figma&logoColor=blue" width="200px" />
     </a>
+   
 </p>
 
-<div>
+
+
+<p align="center">
    <img src="./.github/screenshot-1.png" width="400px">
-   <img src="./.github/screenshot-2.png" width="400px">
-</div>
+
+</p>
+
+<p align="center">
+  <img src="./.github/screenshot-2.png" width="400px">
+
+</p>
+
+
+
 
 # :eyes: Demo Website
  <img src="https://github.com/Rafael-Yokoyama/-podcastr-nlw/blob/main/.github/screenshots.gif">
